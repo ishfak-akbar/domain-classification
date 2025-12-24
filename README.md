@@ -11,7 +11,7 @@ Built with **Streamlit** for an intuitive interface and **scikit-learn** (Linear
 - Shows the **full probability distribution** across all domains in a beautifully styled table
 - Modern dark theme with teal accents (`#088f8f` on `#1c1c1c`)
 - Clean, responsive, and compact UI optimized for all screens
-- Model accuracy: **85.74%** on test set
+- Model accuracy: **85.69%** on test set
 
 ## 🖼️ Screenshots
 
